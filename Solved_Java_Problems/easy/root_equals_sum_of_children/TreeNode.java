@@ -1,4 +1,4 @@
-package Solved_Java_Problems.root_equals_sum_of_children;
+package Solved_Java_Problems.easy.root_equals_sum_of_children;
 
 
 
