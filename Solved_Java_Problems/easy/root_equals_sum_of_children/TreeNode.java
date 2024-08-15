@@ -1,7 +1,3 @@
-package Solved_Java_Problems.easy.root_equals_sum_of_children;
-
-
-
 //Definition for a binary tree node.
 public class TreeNode {
       int val;
